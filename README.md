@@ -75,7 +75,7 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/a67662185@gmail.com">
+  <a href="https://www.linkedin.com/in/a67662185">
     <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
