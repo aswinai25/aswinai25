@@ -59,7 +59,7 @@
 ## ⚙️ data analytics 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode&theme=dark" />
 </p>
 
 ---
